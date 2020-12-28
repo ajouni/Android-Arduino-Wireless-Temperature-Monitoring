@@ -1,6 +1,6 @@
 <?php
 	define('HOST','localhost');
-	define('USER','dbaycom_ahmad');
+	define('USER','ycom_ahmad');
 	define('PASS','test');
 	define('DB','db);
 	
